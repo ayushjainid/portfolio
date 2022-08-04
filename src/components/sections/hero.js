@@ -39,7 +39,7 @@ const StyledHeroSection = styled.section`
     max-width: 540px;
   }
 
-  .email-link {
+  .resume-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
@@ -76,11 +76,11 @@ const Hero = () => {
   );
   const five = (
     <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      className="resume-link"
+      href="/resume.pdf"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Here’s my resume!
     </a>
   );
 
