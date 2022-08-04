@@ -68,7 +68,7 @@ const Hero = () => {
         working in big tech firms over last few years. I love to learn new technologies which also drived me to gain
         good experience in ML and Data Science. Currently, I’m pursuing masters in Computer Science at{' '}
         <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
-        New York University (Courant Institute)
+        NYU Courant
         </a>
         .
       </p>
