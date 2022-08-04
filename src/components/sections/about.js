@@ -137,6 +137,7 @@ const About = () => {
             <p>
               Hello! My name is Ayush. I love building software solutions to solve everyday problems.
               I also enjoy keeping up new technologies while building deeper Computer Science fundamentals.
+              
               My interests broadly lies in exploring more about software engineering and machine learning.
               The fascination which steered me into computer science came from building live object detection
               models in 2015 continues to inspire me to harness the true potential of computer science for 
@@ -152,15 +153,6 @@ const About = () => {
               scalable software solutions with tangile impact utilizing domain and technical knowledge
               from software engineering, machine learning and blockchain.
             </p>
-
-//             <p>
-//               I also recently{' '}
-//               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-//                 launched a course
-//               </a>{' '}
-//               that covers everything you need to build a web app with the Spotify API using Node
-//               &amp; React.
-//             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
