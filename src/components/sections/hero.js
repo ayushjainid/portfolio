@@ -64,14 +64,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software developer dedicated to building fast and scalable software solutions with 
-        diverse experience working in big tech firms over last few years. Currently, I’m pursuing 
-        masters in Computer Science at{' '}
+        I’m a software developer dedicated to building fast and scalable software solutions with diverse experience 
+        working in big tech firms over last few years. I love to learn new technologies which also drived me to gain
+        good experience in ML and Data Science. Currently, I’m pursuing masters in Computer Science at{' '}
         <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
         New York University (Courant Institute)
         </a>.
-        I love to explore and learn new technologies which also drived me to gain good hands-on 
-        experience in Machine Learning and Data Science.
         .
       </p>
     </>
