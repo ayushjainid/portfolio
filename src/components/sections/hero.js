@@ -69,7 +69,7 @@ const Hero = () => {
         good experience in ML and Data Science. Currently, I’m pursuing masters in Computer Science at{' '}
         <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
         New York University (Courant Institute)
-        </a>.
+        </a>
         .
       </p>
     </>
