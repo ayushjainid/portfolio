@@ -4,6 +4,7 @@ title: 'Text to Image Synthesizer using DCGAN'
 cover: './demo.png'
 external: ''
 github: 'https://github.com/ayushjainid/Text_To_Image_Synthesis_Using_DCGAN'
+cta: ''
 tech:
   - Python
   - PyTorch

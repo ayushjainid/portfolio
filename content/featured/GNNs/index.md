@@ -4,6 +4,7 @@ title: 'Maintaining Accuracy of GNN with Increasing Depth'
 cover: './demo.png'
 github: 'https://github.com/ayushjainid/Maintaining-Accuracy-of-Graph-Neural-Networks-with-Increasing-Depth'
 external: ''
+cta: ''
 tech:
   - Python
   - PyTorch

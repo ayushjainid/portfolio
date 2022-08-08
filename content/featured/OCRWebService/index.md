@@ -4,6 +4,7 @@ title: 'Object Character Recognition Web Service'
 cover: './OCR.png'
 github: 'https://github.com/ayushjainid'
 external: ''
+cta: ''
 tech:
   - Python
   - PyTesseract
