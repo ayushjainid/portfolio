@@ -1,7 +1,7 @@
 ---
 date: '2019-01-07'
 title: 'Software Engineer Intern'
-company: 'Amadeus Labs 2019'
+company: 'Amadeus Labs (Intern)'
 location: 'Bengaluru, India'
 range: 'Jan 2019 - May 2019'
 url: 'https://amadeus.com/en/bengaluru-labs-india'

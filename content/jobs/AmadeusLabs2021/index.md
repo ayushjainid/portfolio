@@ -1,7 +1,7 @@
 ---
 date: '2019-07-17'
 title: 'Software Engineer'
-company: 'Amadeus Labs 2021'
+company: 'Amadeus Labs (FT)'
 location: 'Bengaluru, India'
 range: 'July 2019 - May 2021'
 url: 'https://amadeus.com/en/bengaluru-labs-india'
