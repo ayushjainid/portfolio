@@ -30,7 +30,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
@@ -45,7 +45,7 @@ module.exports = {
     darkNavy: '#020c1b',
   },
 
-  srConfig: (delay = 200, viewFactor = 0.25) => ({
+  srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
     duration: 500,
@@ -57,7 +57,7 @@ module.exports = {
     mobile: true,
     reset: false,
     useDelay: 'always',
-    viewFactor,
+    viewFactor: 0.25,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
 };
