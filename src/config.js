@@ -3,16 +3,16 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/ayushjainid',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/ayushjainid',
     },
     {
       name: 'Twitter',
       url: 'https://twitter.com/ayushjainid',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ayushjainid',
     },
     {
       name: 'Instagram',
@@ -38,6 +38,8 @@ module.exports = {
       url: '/#contact',
     },
   ],
+
+  navHeight: 100,
 
   colors: {
     green: '#64ffda',
