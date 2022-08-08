@@ -69,7 +69,7 @@ const Hero = () => {
         <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
         NYU Courant 
         </a>
-         and looking for Full Time Software Engineer opportunities from May 2023. 
+        , and looking for Full Time Software Engineer opportunities from May 2023. 
       </p>
     </>
   );

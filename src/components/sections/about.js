@@ -149,8 +149,8 @@ const About = () => {
               <a href="https://careers.walmart.com/technology">Walmart Global Tech</a>, a Fortune 1
               company and {' '} <a href="https://amadeus.com/en">Amadeus Labs</a>, a top 10 
               leading global travel technology company. My main focus these days is to learn building 
-              fast and scalable software solutions with tangile impact utilizing domain and technical 
-              knowledge from software engineering, machine learning and blockchain.
+              fast and scalable software solutions with tangile impact leveraging full-stack software
+              development, machine learning and blockchain tech.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
