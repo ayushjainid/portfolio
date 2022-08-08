@@ -67,9 +67,9 @@ const Hero = () => {
         I’m a software developer dedicated to building fast and scalable software solutions with diverse experience 
         working in big tech firms over last few years. Currently, I’m pursuing masters in Computer Science at{' '}
         <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
-        NYU Courant
+        NYU Courant 
         </a>
-        .
+         and looking for Full Time Software Engineer opportunities from May 2023. 
       </p>
     </>
   );
