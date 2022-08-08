@@ -25,7 +25,6 @@ const IconLoader = () => (
   //   </g>
   // </svg>
   <img src="src/images/logo.png" alt="Logo" width="42" height="42"></img>
-  /Users/AyushJain/Desktop/portfolio/src/images/logo.png
 );
 
 export default IconLoader;
