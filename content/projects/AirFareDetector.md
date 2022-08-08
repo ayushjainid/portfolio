@@ -3,6 +3,8 @@ date: '2021-09-01'
 title: 'Cheapest Airfare Booking Date Predictor'
 github: ''
 external: ''
+ios: ''
+android: ''
 tech:
   - Python
   - Regression
