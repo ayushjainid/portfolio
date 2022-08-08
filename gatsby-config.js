@@ -4,11 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ayush Jain',
     description:
-      'I’m a software developer dedicated to building fast and scalable software solutions with diverse experience 
-      working in big tech firms over last few years. I love to learn new technologies which also drived me to gain
-      good experience in ML and Data Science. Currently, I’m pursuing masters in Computer Science at{' '}
-      <a href="https://cs.nyu.edu/home/index.html" target="_blank" rel="noreferrer">
-      NYU Courant',
+      'I’m a software developer dedicated to building fast and scalable software solutions with diverse experience working in big tech firms over last few years. I love to learn new technologies which also drived me to gain good experience in ML and Data Science. Currently, I’m pursuing masters in Computer Science at NYU Courant.',
     siteUrl: 'https://ayushjain.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ayushjainid',
