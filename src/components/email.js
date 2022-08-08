@@ -18,7 +18,7 @@ const StyledLinkWrapper = styled.div`
     width: 1px;
     height: 90px;
     margin: 0 auto;
-    background-color: ${colors.lightSlate};
+    background-color: var(--light-slate);
   }
 `;
 const StyledEmailLink = styled.a`
@@ -29,10 +29,9 @@ const StyledEmailLink = styled.a`
   margin: 20px auto;
   padding: 10px;
 
-    &:hover,
-    &:focus {
-      transform: translateY(-3px);
-    }
+  &:hover,
+  &:focus {
+    transform: translateY(-3px);
   }
 `;
 
