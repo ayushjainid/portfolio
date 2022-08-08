@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Object Character Recognition Web Service'
+title: 'Object Character Recognition API'
 cover: './OCR.png'
 github: 'https://github.com/ayushjainid'
 external: ''

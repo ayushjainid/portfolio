@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Text to Image Synthesizer using DCGAN'
+title: 'Text to Image Synthesizer'
 cover: './demo.png'
 external: ''
 github: 'https://github.com/ayushjainid/Text_To_Image_Synthesis_Using_DCGAN'

@@ -136,12 +136,11 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Ayush. I love building software solutions to solve everyday problems.
-              I also enjoy keeping up new technologies while building deeper Computer Science fundamentals.
+              I also enjoy keeping up with new technologies while building deeper Computer Science fundamentals.
               
-              My interests broadly lies in exploring more about software engineering and machine learning.
-              The fascination which steered me into computer science came from building live object detection
-              models in 2015 continues to inspire me to harness the true potential of computer science for 
-              a better tomorrow.
+              My interests broadly lies in software engineering and machine learning. The fascination which 
+              steered me into computer science from building live object detection models in 2017 continues 
+              to inspire me to harness the true potential of computer science for a better tomorrow.
             </p>
 
             <p>
@@ -150,8 +149,8 @@ const About = () => {
               <a href="https://careers.walmart.com/technology">Walmart Global Tech</a>, a Fortune 1
               company and {' '} <a href="https://amadeus.com/en">Amadeus Labs</a>, a top 10 
               leading global travel technology company. My main focus these days is to learn building 
-              scalable software solutions with tangile impact utilizing domain and technical knowledge
-              from software engineering, machine learning and blockchain.
+              fast and scalable software solutions with tangile impact utilizing domain and technical 
+              knowledge from software engineering, machine learning and blockchain.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
