@@ -1,8 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
 import { email } from '@config';
 import { Side } from '@components';
+import styled from 'styled-components';
+import { theme } from '@styles';
+const { colors, fontSizes, fonts } = theme;
 
 const StyledLinkWrapper = styled.div`
   display: flex;
@@ -16,17 +18,16 @@ const StyledLinkWrapper = styled.div`
     width: 1px;
     height: 90px;
     margin: 0 auto;
-    background-color: var(--light-slate);
+    background-color: ${colors.lightSlate};
   }
-
-  a {
-    margin: 20px auto;
-    padding: 10px;
-    font-family: var(--font-mono);
-    font-size: var(--fz-xxs);
-    line-height: var(--fz-lg);
-    letter-spacing: 0.1em;
-    writing-mode: vertical-rl;
+`;
+const StyledEmailLink = styled.a`
+  font-family: ${fonts.SFMono};
+  font-size: ${fontSizes.s};
+  letter-spacing: 0.1em;
+  writing-mode: vertical-rl;
+  margin: 20px auto;
+  padding: 10px;
 
     &:hover,
     &:focus {
@@ -38,7 +39,7 @@ const StyledLinkWrapper = styled.div`
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
     <StyledLinkWrapper>
-      <a href={`mailto:${email}`}>{email}</a>
+      <StyledEmailLink href={`mailto:${email}`}>{email}</StyledEmailLink>
     </StyledLinkWrapper>
   </Side>
 );
